@@ -1,6 +1,8 @@
 # remove_vbox_log
 Simple Python 3 script to remove all VirtualBox log files for current user. Usually they are located at home directory where all VMs are stored. Each VM has own log files, up to three.
 
+![Example of log files](https://i.imgur.com/zOA5u7e.png)
+
 # Installation
 To execute a script, you need Python 3 installed.
 Then clone this repository and go to downloaded directory:
