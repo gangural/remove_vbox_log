@@ -5,7 +5,7 @@ Simple Python 3 script to remove all VirtualBox log files for current user. Usua
 
 # Installation
 To execute a script, you need Python 3 installed.
-Then clone this repository and go to downloaded directory:
+Then clone this repository and go to the downloaded directory:
 
     git clone https://github.com/gangural/remove_vbox_log
     cd remove_vbox_log
