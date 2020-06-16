@@ -13,6 +13,8 @@ Then clone this repository and go to the downloaded directory:
 That's it!
 
 # Usage
+Go to folder where script is located and execute it:
+
 `python3 main.py`
 
 Sample output:
